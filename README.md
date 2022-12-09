@@ -12,7 +12,7 @@
  
  <br>
  
-  ### Minhas redes sociais!
+  ## Redes Sociais
  
 <div> 
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
