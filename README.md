@@ -18,7 +18,4 @@
 <div> 
   <a href="https://www.linkedin.com/in/khalil-belmonte-falanah-20a40a228/">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
- 
-  ![Snake animation](https://github.com/KhalilFalanah/KhalilFalanah/blob/output/github-contribution-grid-snake.svg)
-
 </div>
