@@ -1,5 +1,8 @@
 
-## <img src="[https://skillicons.dev/icons?i=aws,vercel,github,git,firebase,vscode&theme=dark&perline=3](https://camo.githubusercontent.com/94b33bd991f6c3135af747bdf27361be43e797c0fce678b62ed5aef57e9d8bd7/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966)" />Technologies I know
+# <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"/> Technologies That I Know
+
+<table align="center"><tr><td valign="top" width="33%">
+  
 ### <div align="center"> Backend </div>
 
 <p align="center">
