@@ -4,7 +4,9 @@
 <table align="center"><tr><td valign="top" width="33%">
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,c,mysql&theme=light&perline=3" />
+<br>
+<img src="https://skillicons.dev/icons?i=java,c,mysql,git,github,docker&theme=light&perline=3" />
+<br>
 </p>
 
 
