@@ -9,7 +9,6 @@
 <img src="https://skillicons.dev/icons?i=java,c,mysql&theme=light&perline=3" />
 </p>
 
-</td><td valign="top" width="33%">
 
 </td></tr></table>
 <br/><br/>
