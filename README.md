@@ -15,7 +15,7 @@
 <table align="center"><tr><td valign="top" width="33%">
 <br>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,postgresql,springboot&theme=dark&perline=3" />
+<img src="https://skillicons.dev/icons?i=aws,postgre,springboot&theme=dark&perline=3" />
 </p>
 <br>
 </td></tr></table>
