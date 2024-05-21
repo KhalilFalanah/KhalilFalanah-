@@ -23,7 +23,7 @@
 
   ## 🔖 Projects
   <br>
- -[springboot-essentials2](https://github.com/KhalilFalanah/springboot-essentials2): I am currently gaining knowledge in Spring boot through the free course provided by [DevDojo](https://github.com/devdojobr) 
+ - [springboot-essentials2](https://github.com/KhalilFalanah/springboot-essentials2): I am currently gaining knowledge in Spring boot through the free course provided by [DevDojo](https://github.com/devdojobr) 
 
   ## 💻 Contact me
   <br>
