@@ -11,12 +11,6 @@
 
 </td><td valign="top" width="33%">
 
-### <div align="center"> Tools </div>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=eclipse,github,git,vscode&perline=3" />
-</p>
-
 </td></tr></table>
 <br/><br/>
 
