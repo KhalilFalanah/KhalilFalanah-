@@ -24,7 +24,8 @@
   ## 🔖 Projects
 <br>
 
- - [springboot-essentials2](https://github.com/KhalilFalanah/springboot-essentials2): I am currently gaining knowledge in Spring boot through the free course provided by [DevDojo](https://github.com/devdojobr) 
+ - [springboot-essentials2](https://github.com/KhalilFalanah/springboot-essentials2): I am currently gaining knowledge in Spring boot through the free course provided by [DevDojo](https://github.com/devdojobr)
+ - [Nucleo de Saúde Digital - UFCSPA](https://github.com/Nucleo-de-Saude-Digital-InfoBio): I am participating in the development team as a volunteer Link: [dhealthufcspa](https://dhealthufcspa.com/)
 
   ## 💻 Contact me
 <br>
