@@ -24,8 +24,7 @@
   ## 🔖 Projects
 <br>
 
- - [springboot-essentials2](https://github.com/KhalilFalanah/springboot-essentials2): I am currently gaining knowledge in Spring boot through the free course provided by [DevDojo](https://github.com/devdojobr)
- - [Nucleo de Saúde Digital - UFCSPA](https://github.com/Nucleo-de-Saude-Digital-InfoBio) - [dhealthufcspa](https://dhealthufcspa.com/):
+   - [Nucleo de Saúde Digital - UFCSPA](https://github.com/Nucleo-de-Saude-Digital-InfoBio) - [dhealthufcspa](https://dhealthufcspa.com/):
    - I am participating in the development team as a volunteer
    - <b>Technologies I'm using:</b> Spring Boot, Docker, PostgreSQL & GIT
 
