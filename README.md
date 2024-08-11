@@ -24,7 +24,7 @@
   ## 🔖 Projects
 <br>
 
-   - [Nucleo de Saúde Digital - UFCSPA](https://github.com/Nucleo-de-Saude-Digital-InfoBio) - [dhealthufcspa](https://dhealthufcspa.com/):
+ - [Nucleo de Saúde Digital - UFCSPA](https://github.com/Nucleo-de-Saude-Digital-InfoBio) - [dhealthufcspa](https://dhealthufcspa.com/):
    - I am participating in the development team as a volunteer
    - <b>Technologies I'm using:</b> Spring Boot, Docker, PostgreSQL & GIT
 
