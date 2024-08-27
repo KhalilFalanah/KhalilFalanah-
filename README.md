@@ -28,6 +28,8 @@
    - I am participating in the development team as a volunteer
    - <b>Technologies I'm using:</b> Spring Boot, Docker, PostgreSQL & GIT
 
+ - www.fullprinters.com.br
+   - I am building a web app with Spring Boot, MySQL, and Thymeleaf to display data, using Bootstrap for the frontend design. 
   ## 💻 Contact me
 <br>
 <div> 
