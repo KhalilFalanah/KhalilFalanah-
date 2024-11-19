@@ -30,7 +30,8 @@
 
  - www.fullprinters.com.br
    - I am building a web app with Spring Boot, MySQL, and Thymeleaf to display data, using Bootstrap for the frontend design.
- - Developing a website for the gym [Ativa Pró-Saude](https://www.instagram.com/ativaprosaude/)
+ - [Ativa Pró-Saude](https://www.ativaprosaude.com.br)
+   - <b>Technologies I'm using:</b> HTML, CSS, JavaScript
   ## 💻 Contact me
 <br>
 <div> 
