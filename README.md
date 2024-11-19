@@ -32,6 +32,10 @@
    - I am building a web app with Spring Boot, MySQL, and Thymeleaf to display data, using Bootstrap for the frontend design.
  - [Ativa Pró-Saude](https://www.ativaprosaude.com.br)
    - <b>Technologies I'm using:</b> HTML, CSS, JavaScript
+
+  - [ASES](https://github.com/isadora-vieira-ramos/app_ases) - [Projeto ASES](https://www.asesbrasil.org.br/)
+    - Mobile application
+    - <b>Technologies I'm using:</b> Flutter, REST API & GIT
   ## 💻 Contact me
 <br>
 <div> 
