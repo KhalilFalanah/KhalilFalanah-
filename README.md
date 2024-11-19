@@ -4,7 +4,7 @@
 <table align="center"><tr><td valign="top" width="33%">
 <br>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,mysql,c,git,github&theme=light&perline=3" />
+<img src="https://skillicons.dev/icons?i=java,mysql,c,git,github,postgresql,spring,docker&theme=light&perline=3" />
 </p>
 <br>
 </td></tr></table>
@@ -15,7 +15,7 @@
 <table align="center"><tr><td valign="top" width="33%">
 <br>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,postgresql,spring,docker&theme=dark&perline=3" />
+<img src="https://skillicons.dev/icons?i=aws,python&theme=dark&perline=3" />
 </p>
 <br>
 </td></tr></table>
